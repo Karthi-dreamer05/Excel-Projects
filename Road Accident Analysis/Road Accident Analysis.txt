@@ -1,0 +1,15 @@
+Overview:
+
+A dynamic Excel dashboard for road accident analysis, leveraging a meticulously cleaned dataset of 300,000 records. The interactive dashboard features two slicers and a timeline, offering a user-friendly interface for in-depth data exploration. This strategic tool elevates decision-making by presenting visually intuitive insights into road accident trends.
+
+
+
+Detailed View:
+
+
+An comprehensive analysis of road accidents, utilizing a robust dataset encompassing 300,000 records of year 2021-2022 and featuring 24 columns. Central to this data structure is the Accident Index column, a unique identifier providing a foundation for detailed insights. The dataset includes a nuanced classification of accident casualties into three severity types—fatal, serious, and slight—accompanied by a dedicated column capturing the number of vehicles damaged. The resulting interactive dashboard boasts 10 visuals, complemented by 2 slicers (District and Area Type) and a timeline slicer, fostering a user-friendly interface for thorough data exploration.
+
+
+Within the dynamic dashboard, additional features enhance its functionality. Two specific slicers—District and Area Type—enable precise filtering, empowering users to focus on specific regions or urban/rural classifications. Furthermore, the slicers and filter visual tab extend their utility, presenting day-and-night accident counts, each distinctively marked with icons for swift recognition. Following the dashboard, the project unfolds into 9 sheets, housing pivotal pivot tables strategically crafted to amplify data visualization. Notably, the top-left corner of the dashboard prominently displays the count of people injured or killed, ensuring immediate visibility of critical statistics.
+
+An added dimension to our project is the meticulous categorization of vehicle types into six distinct categories, providing a holistic perspective. This categorization is seamlessly visualized within the dashboard, offering stakeholders insights into the diverse vehicular landscape involved in accidents. One visualization within this framework particularly highlights the speed limits of vehicles at the time of accidents, offering a granular understanding of contributing factors. The interactivity of the dashboard is a pivotal aspect, allowing users to leverage slicers for tailored exploration of the dataset based on specific timelines and districts. This adaptability ensures that stakeholders can extract nuanced insights from the data, contributing to informed decision-making. In sum, the integration of these diverse elements positions our project as a strategic tool, empowering decision-makers with visually intuitive and comprehensive insights into road accident trends.
